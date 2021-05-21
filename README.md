@@ -1,6 +1,6 @@
 # Hi
 
-We are *youtubers*, exited about **python**
+We are *youtubers*, excited about **python**
 [Our Youtube](https://www.youtube.com/channel/UCefxmfjreqtcMwGIWqYxQTQ/featured)
 .
 .
